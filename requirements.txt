@@ -1,7 +1,6 @@
 numpy
 bs4
 selenium
-webdriver-manager
 beautifulsoup4
 plotly
 requests
